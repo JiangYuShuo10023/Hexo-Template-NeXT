@@ -4,6 +4,7 @@ categories: Python
 tags:
   - Python
   - 教程
+date: 2020/6/26
 ---
 
 由于python大行其道,很多人都想学习他,接下来,就让我们开始吧!
