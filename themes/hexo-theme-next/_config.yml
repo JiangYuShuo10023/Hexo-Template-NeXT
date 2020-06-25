@@ -559,19 +559,7 @@ quicklink:
 # Comments Settings
 # See: https://theme-next.org/docs/third-party-services/comments
 # ---------------------------------------------------------------
-gitment:
-  enable: true
-  mint: true
-  count: true
-  lazy: false
-  cleanly: false
-  language:
-  github_user: JiangYuShuo10023
-  github_repo: fatmandj.vercel.app
-  client_id: xxx
-  client_secret: xxx
-  proxy_gateway:
-  redirect_protocol:
+
 
 # Multiple Comment System Support
 comments:
